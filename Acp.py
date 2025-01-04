@@ -6,7 +6,7 @@ weight = int(input("Enter Your Weight in KG: "))
 
 if age >= 12 and weight >= 40:
     if age>=12 and age<=18 and weight>=40 and weight<=90:
-        print("Congratilation!! You are Allowed for the class!")
+        print("Congratulation!! You are Allowed for the class!")
     else:
         print("You are Not Allowed for the class Coz You are KOKO!")
         
